@@ -1,0 +1,3 @@
+#spring.application.name=018-spring-timeout
+#server.port=9000
+#spring.mvc.async.request-timeout=2s
